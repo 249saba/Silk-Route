@@ -1,0 +1,44 @@
+
+.nav-ul li{
+    display: inline-block;
+    /* padding:10px; */
+    padding-left: 10px;
+ 
+  }
+  .header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    align-items: center;
+    margin: 0;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+.nav-ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+    font-family: 'PT Sans Narrow';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 150%;
+}
+.nav-ul li a:hover{
+  font-family: 'PT Sans Narrow';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 150%;
+  color: #FCFE00;
+}
+.logo{
+  width: 141px;
+
+  /* padding:10px; */
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}

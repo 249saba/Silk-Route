@@ -1,0 +1,23 @@
+.inputbox{
+    display: block;
+    height: 26px;
+    width: 400px;
+    margin-top: 10px;
+    border: 1px solid skyblue;
+}
+.signupcontainer{
+    padding: 5px;
+    width: 90%;
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.signupbtn{
+    width: 150px;
+    background-color: skyblue;
+    border:1px solid ;
+    cursor: pointer;
+    margin-top: 25px;
+    height: 30px;
+}

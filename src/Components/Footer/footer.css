@@ -1,0 +1,43 @@
+.footer {
+  position: relative;
+  bottom: 0;
+  text-align: center;
+  height: 164px;
+  background: #0D0D0D;
+
+}
+.rightsreservedtag{
+  font-family: 'PT Sans Narrow';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #FFFFFF;
+height: 21px;
+}
+.nav-footerul li{
+  display: inline-block;
+  padding:10px
+}
+.footercontainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  height: 130px;
+  width: 100%;
+
+}
+.nav-footerul li a{
+  text-decoration: none;
+  font-family: 'PT Sans Narrow';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #FFFFFF;
+}
+.logo{
+width: 141px;
+height: 67px;
+}
